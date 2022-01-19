@@ -1,0 +1,317 @@
+[
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565719_200508_154123357.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Il me répondit : - Ça ne fait rien.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544414.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565727_200508_154600674.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Dessine-moi un mouton.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544415.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565721_200508_154223049.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Comme je n’avais jamais dessiné un mouton je refis, pour lui, l’un des deux seuls dessins dont j’étais capable.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544416.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565722_200508_154252536.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Celui du boa fermé.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544417.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565723_200508_154428929.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Et je fus stupéfait d’entendre le petit bonhomme me répondre : - Non ! Non ! Je ne veux pas d’un éléphant dans un boa.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544418.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565724_200508_154527672.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Un boa c’est très dangereux, et un éléphant c’est très encombrant.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544419.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565725_200508_154549618.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Chez moi c’est tout petit.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544420.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565726_200508_154555232.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "J’ai besoin d’un mouton.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544421.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565727_200508_154600674.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Dessine-moi un mouton.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544415.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "565728_200508_154605509.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Alors j’ai dessiné.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544422.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "603236_200512_114012521.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Cet astéroïde n’a été aperçu qu’une fois au télescope, en 1909, par un astronome turc.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544498.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "603237_200512_114049684.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Il avait fait alors une grande démonstration de sa découverte à un Congrès International d’Astronomie.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544499.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "603238_200512_114215022.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Mais personne ne l’avait cru à cause de son costume. Les grandes personnes sont comme ça.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544500.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "603239_200512_114317257.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Heureusement pour la réputation de l’astéroïde B 612 un dictateur turc imposa à son peuple, sous peine de mort, de s’habiller à l’Européenne.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544501.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "603240_200512_114343996.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "L’astronome refit sa démonstration en 1920, dans un habit très élégant. Et cette fois-ci tout le monde fut de son avis.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544502.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "857105_200816_163555662.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "J’appris bien vite à mieux connaître cette fleur.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544703.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "857106_200816_163619403.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Il y avait toujours eu, sur la planète du petit prince, des fleurs très simples, ornées d’un seul rang de pétales, et qui ne tenaient point de place, et qui ne dérangeaient personne.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544704.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "857107_200816_163647085.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Elles apparaissaient un matin dans l’herbe, et puis elles s’éteignaient le soir.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544705.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "857108_200816_163712587.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Mais celle-là avait germé un jour, d’une graine apportée d’on ne sait où, et le petit prince avait surveillé de très près cette brindille qui ne ressemblait pas aux autres brindilles.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544706.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826374_200803_095721958.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Ça pouvait être un nouveau genre de baobab.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544707.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826375_200803_095800098.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Mais l’arbuste cessa vite de croître, et commença de préparer une fleur.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544708.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826457_200803_104227355.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "- Mais oui, je t’aime, lui dit la fleur.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544790.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826458_200803_104234224.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Tu n’en as rien su, par ma faute.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544791.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826459_200803_104245469.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Cela n’a aucune importance.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544792.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826460_200803_104252353.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Mais tu as été aussi sot que moi.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544793.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826461_200803_104303598.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Tâche d’être heureux… Laisse ce globe tranquille.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544794.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826462_200803_104308224.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Je n’en veux plus.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544795.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826463_200803_104315249.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "- Mais le vent…",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544796.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826464_200803_104321058.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "- Je ne suis pas si enrhumée que ça…",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544797.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826465_200803_104326385.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "L’air frais de la nuit me fera du bien.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544798.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826466_200803_104334208.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Je suis une fleur.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544799.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826467_200803_104337607.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "- Mais les bêtes…",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544800.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826468_200803_104345997.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "- Il faut bien que je supporte deux ou trois chenilles si je veux connaître les papillons.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544801.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826469_200803_104351564.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Il paraît que c’est tellement beau.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544802.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/hossein",
+        "human_audio_file": "826470_200803_104358356.mp3",
+        "human_id": "Le_petit_prince_LREC_2022_shortened",
+        "text": "Sinon qui me rendra visite ? Tu seras loin, toi.",
+        "tts_audio_dir": "$LARA/Content/le_petit_prince_lrec2022/audio/french_readspeaker_Elise-DNN",
+        "tts_audio_file": "tts_2021-03-04_03-30-58_2252544803.mp3",
+        "tts_id": "Le_petit_prince_LREC_2022_TTS_shortened"
+    }
+]

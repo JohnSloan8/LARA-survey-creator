@@ -1,0 +1,290 @@
+[
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395058_211228_125626575.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "2",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "1.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395066_211228_095611241.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "او جواب داد :",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "9.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395067_211228_095620130.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "- عیب ندارد. یک گوسفند برایم بکش.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "10.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395068_211228_095637111.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "چون به عمرم نقش گوسفند نکشیده بودم، یکی از همان دو طرح را که از دستم بر می‌آمد، یعنی تصویر مار بوآی بسته را برایش کشیدم.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "11.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395069_211228_125851211.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "و سخت تعجب کردم از اینکه آدم کوچولو به من گفت :",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "12.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395070_211228_125916386.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "- نه! نه! من فیل در شکم بوآ نمی‌خواهم. مار بوآ خیلی خطرناک است و فیل هم خیلی دست و پاگیر است.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "13.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395071_211228_095707946.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "وطن من خیلی کوچک است. من گوسفند لازم دارم. برایم گوسفند بکش.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "14.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395072_211228_130458142.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "آن وقت من این تصویر را کشیدم:",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "15.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395108_211228_100110861.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "4",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "24.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395114_211228_131311147.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "این خرده سیاره را فقط یک بار در سال ۱۹۰۹ یک منجم ترک با دوربین نجومی دیده است.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "30.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395115_211228_100232991.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "همان زمان، منجّم ترک در مجمع جهانی اخترشناسان شرح کشّافی درباره‌ی کشف خود داد.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "31.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395116_211228_131334922.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "ولی چون قبای ترکی به تن داشت کسی سخنش را باور نکرد. آدم‌بزرگ‌ها این جورند دیگر.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "32.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395117_211228_100252620.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "با این همه، بخت خرده سیاره‌ی ب ۶۱۲ بلند بود و شهرت به آن رو آورد.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "33.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395118_211228_100313422.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "سلطان مستبدی در ترکیه افراد ملت را به زور مجازات اعدام وادار به پوشیدن لباس فرنگی کرد.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "34.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395119_211228_131413137.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "پس منجم ترک لباس بسیار برازنده‌ای پوشید و در سال ۱۹۲۰ کشف خود را دوباره اعلام کرد. و این بار همه نظر او را پذیرفتند.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "35.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395121_211228_100347911.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "8",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "37.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395122_211228_131446872.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "خیلی زود توانستم آن گل را بهتر بشناسم.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "38.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395123_211228_100404671.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "در سیاره‌ی شازده کوچولو همیشه گل‌های بسیار ساده‌ای بوده‌اند، فقط با یک ردیف گلبرگ، که نه جای چندانی می‌گرفته‌اند و نه مزاحم کسی می‌شده‌اند.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "39.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395124_211228_100420647.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "صبح یک روز در میان علف‌ها پدید می‌آمده‌اند و شب همان روز می‌پژمرده‌اند.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "40.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395125_211228_100440972.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "ولی این گل یک روز، از دانه‌ای که معلوم نبود از کجا آمده است، جوانه زده بود و شازده کوچولو از نهالی که به هیچ نهال دیگر شباهت نداشت با دلسوزی مراقبت کرده بود.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "41.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395126_211228_131515912.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "بعید نبود که آن نوع تازه‌ای از بائوباب باشد.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "42.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395127_211228_100831485.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "اما نهال زود از رشد بازمانده و دست به کار برآوردن گل شده بود.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "43.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395081_211228_095804372.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "9",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "52.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395094_211228_095947906.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "- آره، من دوستت دارم. تو هیچ وقت این را نفهمیدی، تقصیر خود من بود.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "65.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395095_211228_130909551.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "حالا دیگر اهمیت ندارد. ولی تو هم مثل من احمق بودی. امیدوارم که خوشبخت بشوی.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "66.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395096_211228_100002515.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "این حباب را بگذار کنار، دیگر آن را نمی‌خواهم.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "67.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395097_211228_130932257.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "- ولی آخر باد؟",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "68.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395098_211228_130946786.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "- من آن قدرها هم زکام نیستم. هوای خنک شب سر حالم می‌آورد. آخر من گلم.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "69.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395099_211228_131001207.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "- ولی حیوان‌ها؟",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "70.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395100_211228_131017656.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "- من باید جور دو سه تا کرم حشره را بکشم تا بتوانم با پروانه‌ها آشنا بشوم که گویا خیلی خوشگل اند.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "71.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395101_211228_100036600.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "وگرنه دیگر کی به دیدنم می‌آید؟",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "72.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/farsi_lpp/audio/elham",
+        "human_audio_file": "2395102_211228_131044426.mp3",
+        "human_id": "little_prince_farsi_LREC_2022_shortened",
+        "text": "تو که رفته‌ای به دور دورها، از حیوانات گنده هم نمی‌ترسم.",
+        "tts_audio_dir": "$LARA/Content/farsi_lpp/audio/vocalizer",
+        "tts_audio_file": "73.mp3",
+        "tts_id": "little_prince_farsi_LREC_2022_TTS_shortened"
+    }
+]

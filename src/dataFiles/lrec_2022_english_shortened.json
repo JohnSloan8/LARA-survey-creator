@@ -1,0 +1,254 @@
+[
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572326_210407_053011284.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "He answered: “It doesn’t matter. Draw me a sheep.”",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957922.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676676_210509_094823838.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "Since I had never drawn a sheep, I thought I would draw one of the two things I did know how to draw, the boa constrictor from the outside.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957923.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676677_210509_094900513.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "And I was astonished to hear the little guy say: “No! No! I don’t want an elephant in a boa constrictor!",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957924.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676678_210509_094913304.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "A boa constrictor is way too dangerous and an elephant is way too big.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957925.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572330_210407_053048202.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "Where I live, everything is very small. I need a sheep. Draw me a sheep.”",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957926.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572331_210407_053050619.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "So I drew.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957927.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572381_210407_054452448.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "It has only been observed a single time, by a Turkish astronomer in 1909.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957977.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572382_210407_054502263.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "He made an elaborate presentation of his discovery at an international conference on astronomy.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957978.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572383_210407_054509275.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "But no one believed a word he said because of the way he was dressed. Grown-ups are like that.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957979.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572384_210407_054556244.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "Luckily for the reputation of asteroid B 612, a Turkish dictator introduced a law which said that all his people, on pain of death, were henceforth obliged to wear European clothes.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957980.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1572385_210407_054608832.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "The astronomer presented his discovery again, in 1920, this time wearing a smart suit. And on his second attempt, everyone agreed with him.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215957981.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676890_210509_094940714.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "I soon got to know this flower better.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958137.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676891_210509_094951853.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "On the little prince’s planet, there had always been a few simple flowers.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958138.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676892_210509_094959896.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "They had a single ring of petals, they took up hardly any space, they never bothered anyone.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958139.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676893_210509_095012969.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "They turned up one morning in the grass, and in the evening they disappeared again.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958140.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676894_210509_095045233.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "But this one had sprouted one day, from a seed that came from who knows where, and the little prince had carefully watched this shoot that didn’t look like any of the other shoots.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958141.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676895_210509_095053385.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "It could be a new kind of baobab.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958142.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676896_210509_095100777.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "But the plant soon stopped getting taller, and it began to prepare a flower.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958143.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676961_210511_111835597.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "“Yes, I love you of course,” said the flower.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958208.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676962_210624_092136285.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "“You didn’t know, it was my fault. It doesn’t matter.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958209.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676963_210624_092018898.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "But you have been just as dumb as I have.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958210.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676964_210624_092040756.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "Try to be happy.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958211.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676965_210624_092046989.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "And don’t worry about that cover. I don’t want it anymore.”",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958212.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676966_210511_124533449.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "“But the wind…”",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958213.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676967_210624_092106456.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "“I’m not really sick. The cold night air will do me good. I’m a flower.”",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958214.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676968_210511_124620778.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "“But the animals…”",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958215.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676969_210511_124640933.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "“Well, I’ll have to put up with two or three caterpillars if I want to meet a butterfly. I hear they’re beautiful.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-12-31_05-04-50_2976938702.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/avrilM",
+        "human_audio_file": "1676970_210511_124721099.mp3",
+        "human_id": "the_little_prince_LREC_2022_shortened",
+        "text": "If I don’t do that, who will I have to talk to? You’ll be far away.",
+        "tts_audio_dir": "$LARA/Content/the_little_prince_lrec2022/audio/english_readspeaker_Alice-DNN",
+        "tts_audio_file": "tts_2021-03-14_04-16-01_1215958217.mp3",
+        "tts_id": "the_little_prince_LREC_2022_TTS_shortened"
+    }
+]

@@ -1,0 +1,281 @@
+[
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526247_210213_171534634.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Mi rispose: «Non importa. Disegnami una pecora...»",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222429.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526248_210213_172305790.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Non avevo mai disegnato una pecora e allora feci per lui uno di quei due disegni che avevo fatto molte volte: quello del boa dal di fuori; e fui sorpreso di sentirmi rispondere: «No, no, no!",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222430.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526249_210213_172324320.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Non voglio l'elefante dentro al boa.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222431.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526250_210213_172334803.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Il boa è molto pericoloso e l'elefante molto ingombrante.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222432.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526251_210213_172345333.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Dove vivo io tutto è molto piccolo.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222433.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526252_210213_172408750.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Ho bisogno di una pecora: disegnami una pecora».",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222434.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526253_210213_172415914.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Feci il disegno.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222435.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526318_210225_183146891.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Questo asteroide è stato visto una sola volta al telescopio da un astronomo turco.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222500.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526319_210225_183219408.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Aveva fatto allora una grande dimostrazione della sua scoperta a un Congresso Internazionale d'Astronomia.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222501.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526320_210225_183302875.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Ma in costume com'era, nessuno lo aveva preso sul serio.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222502.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526321_210225_183315086.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "I grandi sono fatti così.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222503.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526322_210225_183433971.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Fortunatamente per la reputazione dell'asteroide B 612 un dittatore turco impose al suo popolo, sotto pena di morte, di vestire all'europea.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222504.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526323_210225_183512897.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "L'astronomo rifece la sua dimostrazione nel 1920, con un abito molto elegante.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222505.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1526324_210225_183533916.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "E questa volta tutto il mondo fu con lui.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222506.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680736_210509_171543332.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Imparai ben presto a conoscere meglio questo fiore.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222682.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680737_210509_171707044.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "C'erano sempre stati sul pianeta del piccolo principe dei fiori molto semplici, ornati di una sola raggiera di petali, che non tenevano posto e non disturbavano nessuno.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222683.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680738_210509_171749083.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Apparivano un mattino nell'erba e si spegnevano la sera.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222684.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680739_210509_171834753.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Ma questo era spuntato un giorno, da un seme venuto chissà da dove, e il piccolo principe aveva sorvegliato da vicino questo ramoscello che non assomigliava a nessun altro ramoscello.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222685.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680740_210509_171851220.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Poteva essere una nuova specie di baobab.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222686.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680741_210509_171900957.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Ma l'arbusto cessò presto di crescere e cominciò a preparare un fiore.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222687.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680813_210523_192111541.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Ma sì, ti voglio bene», disse il fiore, «e tu non l'hai saputo per colpa mia.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222759.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680814_210523_192123150.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Questo non ha importanza, ma sei stato sciocco quanto me.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222760.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680815_210523_192131366.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Cerca di essere felice.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222761.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680816_210523_192137830.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Lascia questa campana di vetro, non la voglio più».",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222762.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680817_210523_192143418.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "«Ma il vento...»",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222763.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680818_210523_192148688.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "«Non sono così raffreddato.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222764.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680819_210523_192156201.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "L'aria fresca della notte mi farà bene. Sono un fiore».",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222765.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680820_210523_192203006.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "«Ma le bestie...»",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222766.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680821_210523_192220915.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "«Devo pur sopportare qualche bruco se voglio conoscere le farfalle, sembra che siano così belle.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222767.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680822_210523_192240735.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Se no chi verrà a farmi visita?",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222768.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/il_piccolo_principe/audio/matilde",
+        "human_audio_file": "1680823_210523_192250331.mp3",
+        "human_id": "il_piccolo_principe_LREC_2022_shortened",
+        "text": "Tu sarai lontano e delle grosse bestie non ho paura.",
+        "tts_audio_dir": "$LARA/Content/il_piccolo_principe/audio/readspeaker",
+        "tts_audio_file": "tts_2021-03-02_18-34-14_4885222769.mp3",
+        "tts_id": "il_piccolo_principe_LREC_2022_TTS_shortened"
+    }
+]

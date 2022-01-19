@@ -1,0 +1,272 @@
+[
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292816_201129_143330192.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Ale on odrzekł: - To nic nie szkodzi.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920809.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292817_201129_143336410.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Narysuj mi baranka.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920810.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292818_201129_143349653.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Ponieważ nigdy w życiu nie rysowałem baranka, pokazałem mu jeden z dwóch rysunków, jakie umiałem zrobić: rysunek węża boa zamkniętego.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920811.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292820_201204_063750435.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Nie chcę słonia połkniętego przez węża boa.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920813.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292821_201204_063757674.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Boa jest zbyt niebezpieczny, a słoń za duży.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920814.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292822_201204_063803840.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Mam za mało miejsca.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920815.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292823_201204_063809211.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Potrzebny mi jest baranek.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920816.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292817_201129_143336410.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Narysuj mi baranka.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920810.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1292824_201204_063814402.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Narysowałem baranka.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920817.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1296061_201217_145408545.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Ta gwiazda była widziana raz tylko, w 1909 roku, przez tureckiego astronoma, który swoje odkrycie ogłosił na Międzynarodowym Kongresie Astronomów.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920886.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1296062_201217_145417591.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Nikt jednak nie chciał mu uwierzyć, ponieważ miał bardzo dziwne ubranie.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920887.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1296063_201217_145426084.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Tacy bowiem są dorośli ludzie.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920888.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1296065_201217_145455885.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Astronom ogłosił po raz wtóry swoje odkrycie w roku 1920 - i tym razem był ubrany w elegancki frak.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920890.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1296066_201217_145459592.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Cały świat mu uwierzył.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484920891.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331927_201206_095823735.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Na planecie Małego Księcia kwiaty były zawsze bardzo skromne, o pojedynczej koronie płatków, nie zajmujące miejsca i nie przeszkadzające nikomu.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921002.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331928_201206_095851788.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Pojawiały się któregoś ranka wśród traw i więdły wieczorem.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921003.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331929_201206_095948112.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Krzak róży wykiełkował w ciągu dnia z ziarna przyniesionego nie wiadomo skąd i Mały Książę z uwagą śledził ten pęd, zupełnie niepodobny do innych pędów.Mógł to być nowy gatunek baobabu.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921004.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331930_201206_100020407.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Lecz krzak szybko przestał rosnąć i zaczął się formować kwiat.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921005.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331581_201203_155948342.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "- Ależ tak, ja cię kocham - mówiła róża.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921080.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331582_201203_155956932.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "- Nie wiedziałeś o tym z mojej winy.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921081.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331583_201203_160003315.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "To nie ma żadnego znaczenia.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921082.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331584_201203_160010769.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Ale ty byłeś równie niemądry jak ja.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921083.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331577_201203_155914520.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Spróbuj być szczęśliwy.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921076.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331585_201203_160019216.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Pozostaw spokojnie tę planetę.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921084.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331586_201203_160025905.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Nie chcę ciebie więcej.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921085.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331587_201203_160036043.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "- Ależ... przeciągi... - Nie jestem już tak bardzo zakatarzona.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921086.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331588_201203_160045120.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Chłodne powietrze nocy dobrze mi zrobi.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921087.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331589_201203_160104684.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Jestem kwiatem.. - Ale dzikie bestie... - Muszę poznać dwie lub trzy gąsienice, jeśli chcę zawrzeć znajomość z motylem.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921088.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331590_201203_160118189.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "To podobno takie rozkoszne.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921089.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/Mały_Książe/audio/hani",
+        "human_audio_file": "1331591_201203_160132614.mp3",
+        "human_id": "Maly_Ksiaze_LREC_2022_shortened",
+        "text": "Bo któż by mnie potem odwiedzał, gdy będziesz daleko... A jeśli chodzi o dzikie bestie, nie boję się nikogo.",
+        "tts_audio_dir": "$LARA/Content/Mały_Książe/audio/google_tts",
+        "tts_audio_file": "tts_2021-07-24_02-14-31_2484921090.mp3",
+        "tts_id": "Maly_Ksiaze_LREC_2022_TTS_shortened"
+    }
+]

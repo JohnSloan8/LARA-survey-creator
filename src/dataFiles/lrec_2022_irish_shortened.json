@@ -1,0 +1,407 @@
+[
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "2",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_14-38-07_6931686999.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_08.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Is cuma,\" a dúirt sé, \"tarraing caora dom.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545162.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_09.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Rinne mé mo dhícheall ach d'fhéach sé air agus dúirt:",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545163.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_10.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"In ainm Dé, tá an chaora sin tinn.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545164.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_11.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Déan ceann eile\".",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545165.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_12.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Rinne mé amhlaidh agus an uair seo ar seisean:",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545166.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_13.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Ní caora é sin ach reithe.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-30_16-11-56_5622044812.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_14.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Féach na hadharca atá air.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545168.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_15.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Rinne mé an tríú ceann, ach bhí mé ag éirí tinn tuirseach de seo.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545169.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_16.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Bhí an chaora seo róshean.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545170.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_humorous_ch2_norm_17.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Ba mhaith liom caora a mhairfidh tamall fada.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545171.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "4",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_14-38-07_6931687000.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_humorous_ch4_norm_07.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Ní fhacthas an t-astaróideach seo ach aon uair amháin tríd an teileascóp.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545178.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_humorous_ch4_norm_08.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Réalteolaí ón Tuirc a tháinig air, ach nuair a chuir sé an scéal os comhair an phobail níor chreid éinne é toisc go raibh éadaí dúchasacha á gcaitheamh aige agus é ag tabhairt a léachta.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545179.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_humorous_ch4_norm_09.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Is mar sin a bhíonn daoine fásta.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545180.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_humorous_ch4_norm_10.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Dá bharr seo thug deachtóir sa Tuirc dlí isteach go gcaithfeadh muintir na Tuirce feistis Eorpacha a chaitheamh as sin amach.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545181.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_humorous_ch4_norm_11.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "In 1920 chuir an réalteolaí céanna a scéal os comhair an phobail arís agus feisteas Eorpach á chaitheamh aige.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545182.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_humorous_ch4_norm_12.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Ghlac gach éinne leis an uair seo.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545183.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "8",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_14-38-07_6931687001.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_01.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Chuir mé aithne níos fearr ar an mbláth seo gan mhoill.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545186.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_02.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Bhíodh na bláthanna a bhí ar phláinéad an phrionsa bhig an-simplí i gcónaí.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545187.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_03.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Ní raibh ach sraith amháin piotal orthu, níor thóg siad suas aon spás agus níor chuir siad isteach ná amach ar éinne.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545188.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_04.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Thiocfaidís amach ar an bhféar ar maidin agus faoi thitim na hoíche bheidís feoite go ciúin síochánta.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545189.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_05.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Ach lá amháin shéid síol isteach, is gan a fhios ag éinne cad as ar tháinig sé, agus tháinig bláth nua chun solais.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545190.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_06.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Choimeád an prionsa beag súil ghéar ar an ngas beag nach raibh ar aon dul le haon ghas beag eile ina phláinéad.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545191.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_07.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Cá bhfios nach baobab de shaghas éigin eile a bhí ann.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545192.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_narrative_non-humorous_ch8_norm_08.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Ach stop an fás agus thosaigh sé á hullmhú féin chun bláthú.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-30_16-11-56_5622044813.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "9",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_14-38-07_6931687002.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_16.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Táim i ngrá leat gan dabht,\" arsa an bláth leis.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545219.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_17.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Ormsa atá an locht.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545220.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_18.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Nár thuig tú é sin i gcaitheamh an ama.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545221.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_19.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Is cuma faoi sin anois.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545222.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_20.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Ach bhí tú féin chomh díchéillí liomsa.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545223.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_21.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Déan iarracht a bheith sona.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545224.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_22.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Fág an gloine.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545225.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_23.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Ní bheidh sé uaim níos mó.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545226.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_24.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Ach an ghaoth....",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545227.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_25.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Níl an slaghdán seo ró-olc.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545228.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_26.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Déanfaidh aer fuar na hoíche maitheas dom.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545229.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_27.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Nach bláth mé.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545230.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_28.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Ach na hainmhithe....",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545231.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_29.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Bhuel, caithfidh mé cur suas le bolb nó dhó más mian liom aithne a chur ar fhéileacáin.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2022-01-07_14-32-29_3609304411.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_30.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Deirtear go bhfuil siad go hálainn ar fad\".",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545233.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_31.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "\"Agus muna dtagann na boilb agus na féileacáin cé eile a thabharfaidh cuairt orm.",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-30_16-11-56_5622044814.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    },
+    {
+        "human_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/human",
+        "human_audio_file": "attempt1_non-humorous_ch9_norm_32.mp3",
+        "human_id": "an-prionsa-beag-lrec2022_human_shortened",
+        "text": "Beidh tusa i bhfad ó bhaile\".",
+        "tts_audio_dir": "$LARA/Content/an-prionsa-beag-lrec2022/audio/nnc",
+        "tts_audio_file": "tts_2021-12-28_13-51-00_8987545235.mp3",
+        "tts_id": "an-prionsa-beag-lrec2022_nnc_shortened"
+    }
+]
